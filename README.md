@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning math...
 - 💞️ I’m looking to collaborate on math..
 - 📫 How to reach me nishiaaX2@outlook.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: idk man just use anything idrc anymore
 - ⚡ Fun fact: i was made out of high quality shanghainese plastic trust
 
 <!---
