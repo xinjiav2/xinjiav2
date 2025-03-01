@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @xinjiav2
-- 👀 I’m interested in: math :D
-- 🌱 I’m currently learning: shakespeare...
-- 💞️ I’m looking to collaborate on: my english paper :sob:
-- 📫 How to reach me: nishiaaX2@outlook.com (expect a response time of 31 days)
-- 😄 Pronouns: any/all
-- ⚡ Fun fact: I love procrastinating
+<h1 align="center">Hi ! I'm Zhengjie Xu (Zhengji Li)</h1>
 
-<!---
-xinjiav2/xinjiav2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 💫 About Me:
+I am a freshman at Del Norte High School in San Diego, California. I am your average person and has a comprehensive list of what restrictions the school district gave us and how to bypass it. :D
+
+## 🚀 What I'm Up To
+
+- Math
+- English
+- Adventures of Yubin in the country of Daguojia (english final)
+- Varaa vs Naahur (https://github.com/SpekTral05/gametest)
