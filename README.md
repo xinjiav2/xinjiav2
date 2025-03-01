@@ -9,3 +9,6 @@ I am a freshman at Del Norte High School in San Diego, California. I am your ave
 - English
 - Adventures of Yubin in the country of Daguojia (english final)
 - Varaa vs Naahur (https://github.com/SpekTral05/gametest)
+
+
+## I totally did not copy Rachit's file :D
