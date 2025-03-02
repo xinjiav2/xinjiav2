@@ -23,3 +23,7 @@ Well this following part
     <img height="180" src="https://githubreadmestats-rho.vercel.app/api/top-langs/?username=xinjiav2&layout=compact&theme=dracula" />
   </a>
 </p>
+
+<br>
+
+if theres a second version theres always a first version
