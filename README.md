@@ -6,12 +6,8 @@ I am a freshman at Del Norte High School in San Diego, California. I am totally 
 
 ##  What I'm Up To
 
-- Math
-- English
-- Adventures of Yubin
-- Varaa vs Naahur (https://github.com/SpekTral05/gametest)
-- Del Norte Quiz Bowl
-- Del Norte Academic League (yep we got destroyed by mission vista)
+- Learning !
+- Coding !
 
 
 ## I totally did not copy Rachit's file :D
