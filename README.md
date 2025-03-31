@@ -22,5 +22,3 @@ Well this following part
 </p>
 
 <br>
-
-if theres a second version theres always a first version
