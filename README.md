@@ -23,4 +23,4 @@ I am a freshman at Del Norte High School in San Diego, California. I am totally 
   </a>
 </p>
 
-<br>
+yes the misalignment was intentional
