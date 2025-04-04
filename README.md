@@ -10,14 +10,16 @@ I am a freshman at Del Norte High School in San Diego, California. I am totally 
 - Coding !
 
 
-## I totally did not copy Rachit's file :D
 
-## This was copied not from Rachit but instead from Aditya who definetly does not know who I am
-Well this following part
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/xinjiav2">
     <img height="180" src="https://githubreadmestats-rho.vercel.app/api/top-langs/?username=xinjiav2&layout=compact&theme=dracula" />
+  </a>
+</p>
+
+<p align="right">
+  <a href="https://github.com/xinjiav3">
+    <img height="180" src="https://githubreadmestats-rho.vercel.app/api/top-langs/?username=xinjiav3&layout=compact&theme=dracula" />
   </a>
 </p>
 
