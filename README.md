@@ -17,6 +17,8 @@ I am a freshman at Del Norte High School in San Diego, California. I am totally 
   </a>
 </p>
 
+<br>
+
 <p align="right">
   <a href="https://github.com/xinjiav3">
     <img height="180" src="https://githubreadmestats-rho.vercel.app/api/top-langs/?username=xinjiav3&layout=compact&theme=dracula" />
