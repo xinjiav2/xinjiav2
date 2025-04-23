@@ -1,4 +1,4 @@
-<h1 align="center">Hi ! I'm Zhengji Li</h1>
+<h1 align="center">Hi! I'm Zhengji Li</h1>
 
 #  About Me:
 I am a freshman at Del Norte High School in San Diego, California. I am currently interested in understanding how the software in a program interacts with the hardware in a machine, as well as the languages assembly, C, and C++.
