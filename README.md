@@ -6,7 +6,7 @@ I am a freshman at Del Norte High School in San Diego, California. I am currentl
 
 ##  What I'm Up To
 
-- Learning what I'm intrested in
+- Learning what I'm interested in
 - Coding, for the CSSE class as well as making discord bots I find intresting.
 - Doing things I find intrest in, such as contributing to the Valorant addiction, as well as going outside to finally touch grass after pushing to Iron 1 (lowest rank in Valorant).
 
