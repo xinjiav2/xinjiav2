@@ -15,11 +15,17 @@ I am a freshman at Del Norte High School in San Diego, California. I am currentl
 
 # Fun Stuff:
 "Hi, my name is devin. I'm in ninth grade, and like you, I had to take the diagnostic."
+
 The results of the diagnostic decides what lessons you get. The diagnostic shows what you know, and what you need to work on.
+
 I remember the last diagnostic I took, it was hard.
+
 The diagnostic will feel challenging, you may see questions you don't know how to answer because you haven't learned them.
+
 There were some questions I knew and some questions I didn't know, but I didn't give up. I tried my best and moved on. When I finished I got lessons that were right for me. 
+
 The diagnostic is not a typical test. Not all students will see the same questions, every student should get around half the questions correct, that's okay!
+
 Some of my friends rushed and got lessons that weren't right for them, they asked me what I did. Here are five things I shared with them
 
 I didn't give up.
