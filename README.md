@@ -20,6 +20,15 @@ I am a sophmore at Del Norte High School in San Diego, California. I am currentl
 ## Tools:
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Github](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Pip](https://img.shields.io/badge/pip-%230B7285.svg?style=for-the-badge&logo=pypi&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+## Other Skills Unrelated:
+
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white) ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-%2300A8E1.svg?style=for-the-badge&logo=Adobe-Lightroom&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
+## Fun Things I Do:
+![Minecraft](https://img.shields.io/badge/Minecraft-%23362D27.svg?style=for-the-badge&logo=minecraft&logoColor=white)
+![Valorant](https://img.shields.io/badge/Valorant-%23FF4655.svg?style=for-the-badge&logo=valorant&logoColor=white)
+
+
 
 # Fun Stuff:
 "Hi, my name is devin. I'm in ninth grade, and like you, I had to take the diagnostic."
