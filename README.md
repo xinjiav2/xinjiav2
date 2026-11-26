@@ -2,7 +2,7 @@
 
 # Hey, I'm Zhengji
 
-**Aspiring Electrical Engineer | AI & Machine Learning | Robotics & Embedded Systems**
+**Aspiring Nuclear Engineer | AI & Machine Learning | Robotics & Embedded Systems**
 
 High School Junior at Del Norte High School
 
@@ -18,7 +18,7 @@ Interested in developing intelligent systems at the intersection of hardware, so
 
 ## About Me
 
-I'm a junior at **Del Norte High School**, planning to pursue a degree in **Electrical Engineering**, with interests in artificial intelligence, robotics, aerospace, and environmental engineering.
+I'm a junior at **Del Norte High School**, planning to pursue a degree in **Nuclear Engineering**, with interests in artificial intelligence, robotics, aerospace, and environmental engineering.
 
 My primary focus is on **AI/ML, embedded systems, and the Internet of Things (IoT)**. I'm particularly interested in connecting hardware and software to create autonomous systems capable of collecting, processing, and acting on real-world data.
 
@@ -42,8 +42,8 @@ I enjoy exploring the intersection of electrical engineering and computer scienc
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css&logoColor=white)
 
@@ -59,6 +59,8 @@ I enjoy exploring the intersection of electrical engineering and computer scienc
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cerebras](https://img.shields.io/badge/Cerebras-F15A29?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI+PHBhdGggZD0iTTE2IDQuNUE4LjUgOC41IDAgMCAwIDE2IDE5LjUiLz48cGF0aCBkPSJNMTYgNy44QTUuMiA1LjIgMCAwIDAgMTYgMTYuMiIvPjxwYXRoIGQ9Ik0xNiAxMC44QTIuMiAyLjIgMCAwIDAgMTYgMTMuMiIvPjwvc3ZnPg==)
 
 </details>
 
